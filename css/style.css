@@ -9,8 +9,8 @@ body{
 }
 @media screen and (max-width: 768px) {
 	.logo{
-	width:50%;
-}
+		width:50%;
+	}
 }
 .logo-container{
 	text-align: center;
@@ -252,5 +252,3 @@ footer a:hover {
         margin: 32px 0
     }
 }
-
-
